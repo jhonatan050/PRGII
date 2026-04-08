@@ -7,7 +7,6 @@
 ├── 📁 assets/
 ├── 📄 .gitignore
 ├── 📄 Hi.java
-├── 📄 prgllclass.md
 ├── 📄 readme.md
 └── 📄 Sumar.java
 
